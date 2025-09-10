@@ -1,0 +1,3 @@
+We used pwd for showing current directory, mkdir for creating new directory, cd for checking directory, ls -ltr for listing files, cd .. for changing levels, cat for printing, pico -l for opening and editing
+
+For git there were git config --global user.name and user.email for setting email and username for github, git clone for taking repository from git and putting it here, git status shows the current repo and whats going on, git add adds a file to be updated, git commit -m saves changes with a text, then git push is for uploading it.
